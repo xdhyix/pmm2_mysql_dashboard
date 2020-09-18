@@ -1,6 +1,5 @@
 # pmm2_mysql_dashboards
-All in one dashboards for mornitoring MySQL
-Based on PMM 2.4.0
+All in one dashboards for mornitoring MySQL based on PMM 2.4.0
 
 
 1. Cross Server V2 (for Comparing multiple hosts)
